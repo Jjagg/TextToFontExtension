@@ -1,0 +1,17 @@
+*.user
+
+#build
+[Oo]bj/
+[Bb]in/
+packages/
+
+#vim
+*~
+*.sw[op]
+
+#VS
+.vs
+
+#ReSharper
+*.DotSettings.user
+
